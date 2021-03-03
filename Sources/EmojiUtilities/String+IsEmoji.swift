@@ -1,5 +1,5 @@
 //
-//  String+Additions.swift
+//  String+IsEmoji.swift
 //  EmojiUtilities
 //
 
