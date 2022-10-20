@@ -40,10 +40,6 @@ public class EmojiField: UIControl {
 
     // MARK: - UIResponder
 
-    public override var textInputContextIdentifier: String? {
-        "emoji"
-    }
-
     public override var textInputMode: UITextInputMode? {
         for mode in UITextInputMode.activeInputModes {
              if mode.primaryLanguage == "emoji" {
